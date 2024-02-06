@@ -1,0 +1,14 @@
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/bin/Debug/net7.0/real-platzi-2024
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/bin/Debug/net7.0/real-platzi-2024.deps.json
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/bin/Debug/net7.0/real-platzi-2024.runtimeconfig.json
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/bin/Debug/net7.0/real-platzi-2024.dll
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/bin/Debug/net7.0/real-platzi-2024.pdb
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.AssemblyInfoInputs.cache
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.AssemblyInfo.cs
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.csproj.CoreCompileInputs.cache
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.dll
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/refint/real-platzi-2024.dll
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.pdb
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/real-platzi-2024.genruntimeconfig.cache
+/Users/jeanbaeez/Dev/mobile/real-platzi-2024/obj/Debug/net7.0/ref/real-platzi-2024.dll

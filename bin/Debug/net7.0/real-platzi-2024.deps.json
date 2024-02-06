@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "real-platzi-2024/1.0.0": {
+        "runtime": {
+          "real-platzi-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "real-platzi-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
